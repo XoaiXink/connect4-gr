@@ -17,6 +17,7 @@ namespace Connect_Four
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new HomePage());
+            //hihi
         }
     }
 }
